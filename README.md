@@ -15,6 +15,6 @@ Please refer to the official Shared Task website for more information and to get
 
 If you need any help reproducing the results, please don't hesitate to contact me through
 
-**Joseph Marvin Imperial** 
-jrimperial@national-u.edu.ph
+**Joseph Marvin Imperial** <br/>
+jrimperial@national-u.edu.ph <br/>
 www.josephimperial.com 
