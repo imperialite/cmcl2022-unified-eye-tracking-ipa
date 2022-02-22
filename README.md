@@ -1,4 +1,4 @@
-### NU HLT at CMCL 2022 Shared Task: Multilingual and Crosslingual Prediction of Human Reading Behavior in Universal Language Space
+## NU HLT at CMCL 2022 Shared Task: Multilingual and Crosslingual Prediction of Human Reading Behavior in Universal Language Space
 
 This repository contains the singly Python notebook for extracting features for eye-tracking prediction such as frequencies, n-grams, information theoretic, and psycholinguistically-motivated predictors. From the title, it is worth noting that these feature values were extracted from the coverted IPA form of the words.
 
