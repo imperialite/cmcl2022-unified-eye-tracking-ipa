@@ -2,6 +2,8 @@
 
 This repository contains the singly Python notebook for extracting features for eye-tracking prediction such as frequencies, n-grams, information theoretic, and psycholinguistically-motivated predictors. From the title, it is worth noting that these feature values were extracted from the coverted IPA form of the words.
 
+Paper: https://arxiv.org/abs/2202.10855
+
 ## Requirements
 
  1. [Epitran](https://github.com/dmort27/epitran) for converting words to IPA form. Can be done for English, German, Hindi, Dutch, Russian, and Mandarin. 
